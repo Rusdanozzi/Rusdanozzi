@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rusdanozzi
-- 👀 I’m interested in Software Developmetn Engineer Testing
+- 👀 I’m interested in Software Quality Testing
 - 🌱 I’m currently learning QA Automation
 - 📫 How to reach me LinkedIn (https://www.linkedin.com/in/rusdan-fahrur-rozi-296ab6165/)
 
