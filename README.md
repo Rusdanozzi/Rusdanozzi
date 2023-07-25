@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rusdanozzi
-- 👀 I’m interested in Software Quality Testing Data Specialist
+- 👀 I’m interested in Software Quality Assurance, Testing Data, and Data Specialist
 - 🌱 I’m currently looking for opportunities for QA Automation and Data Scientist
 - 📫 How to reach me LinkedIn (https://www.linkedin.com/in/rusdan-fahrur-rozi-296ab6165/)
 
